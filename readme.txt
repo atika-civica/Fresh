@@ -1,1 +1,3 @@
-Welcome to Training 
+Welcome to Training.
+
+Hi,every thing is all good.
